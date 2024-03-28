@@ -53,3 +53,8 @@ I've set up four types of issues right now:
 - `generic questions`: This is a catch all for other questions or suggestions you may have about the dashboard.
 
 If you want to contribute, either start an issue or go directly into making a PR (using the same labels as above). Once the PR is merged, the queries will get updated in the frontend.
+
+### Acknowledgments
+
+The data is based on collab with 21.co research team Eli, Adrian, Karim, Carlos, and Tom, whose unwavering commitment and insights were crucial in the creation of this dashboard.
+
