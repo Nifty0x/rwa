@@ -56,5 +56,5 @@ If you want to contribute, either start an issue or go directly into making a PR
 
 ### Acknowledgments
 
-The data is based on collab with @fillif, @sqrr-research and the dedicated members of the 21.co research team Eli, Adrian, Karim, Carlos, and Tom, whose unwavering commitment and insights were crucial in the creation of this dashboard.
+The data is based on collab with @impossiblefinance, @fillif, @sqrr-research and the dedicated members of the 21.co research team Eli, Adrian, Karim, Carlos, and Tom, whose unwavering commitment and insights were crucial in the creation of this dashboard.
 
